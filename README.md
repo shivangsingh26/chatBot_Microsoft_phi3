@@ -39,6 +39,7 @@ This project implements a basic bot using the Microsoft Phi-3-mini-128k-instruct
   ```
 
 2. Interact with the bot:
+   
   -Enter your query in the input field.
    
   -Click on the "Result" button to see the bot's response and provide the requested information.
