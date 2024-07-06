@@ -12,28 +12,31 @@ This project implements a basic bot using the Microsoft Phi-3-mini-128k-instruct
 ## Installation
 
 1. **Clone the repository:**
-
-```sh
-git clone https://github.com/your-repo/llm-powered-bot.git
-cd llm-powered-bot
+  ```sh
+  git clone https://github.com/your-repo/chatBot_Microsoft_phi3.git
+  cd chatBot_Microsoft_phi3
+  ```
 
 2. **Create and activate a virtual environment:**
 
-```sh
-python -m venv venv
-source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+  ```sh
+  python -m venv venv
+  source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+  ```
 
 3. **Install the required packages:**
 
-```sh
-pip install -r requirements.txt
+  ```sh
+  pip install -r requirements.txt
+  ```
 
 ## Usage
 
 1. **Run the Streamlit app:**
 
-```sh
-streamlit run app.py
+  ```sh
+  streamlit run app.py
+  ```
 
 2. Interact with the bot:
   -Enter your query in the input field.
