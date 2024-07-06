@@ -40,12 +40,14 @@ This project implements a basic bot using the Microsoft Phi-3-mini-128k-instruct
 
 2. Interact with the bot:
   -Enter your query in the input field.
+   
   -Click on the "Result" button to see the bot's response and provide the requested information.
 
 
 ## Notes
 
   -Ensure you have a valid Hugging Face token set in the environment variable HF_TOKEN before running    the code.
+  
   -The bot requires a good GPU to run efficiently due to the computational load of the LLM.
 
 ## License
